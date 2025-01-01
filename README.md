@@ -1,2 +1,2 @@
 # Persian-surname-database
- persian surnames from https://forebears.io/iran/surnames
+1000 Persian surnames from https://forebears.io/iran/surnames
